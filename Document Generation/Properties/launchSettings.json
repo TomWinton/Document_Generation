@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DOcument_Generation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7136",
+      "launchBrowser": false
+    }
+  }
+}
